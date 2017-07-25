@@ -20,7 +20,7 @@
     "react": "16.0.0-alpha.12",
     "react-dom": "16.0.0-alpha.12",
     "react-native": "0.46.4",
-    "react-native-svg": "^5.3.2",
+    "react-native-svg": "https://github.com/msand/react-native-svg.git#a8fdf64",
     "standalone-vexflow-context": "^0.1.0",
     "vexflow": "^1.2.83"
   },
